@@ -1,4 +1,4 @@
-# ReadMe for Text to Morse Code Converter
+# Text to Morse Code Converter
 ## Overview
 This Python script is a Text to Morse Code and Morse Code to Text Converter. It allows users to seamlessly switch between text and Morse code translations, providing a quick and interactive way to encode and decode messages.
 
